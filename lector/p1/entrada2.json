@@ -1,0 +1,36 @@
+{
+  "Pizzeria": [
+    {
+      "codigo": 1,
+      "nombre": "Hawaina",
+      "precio": "1500",
+      "duracion": "5",
+      "tamaño": "mediana"
+    },
+    {
+      "codigo": 2,
+      "nombre": "Jamon",
+      "precio": "3000",
+      "duracion": "5",
+      "tamaño": "mediana"
+    },
+    {
+      "codigo": 3,
+      "nombre": "Peperonni",
+      "precio": "2500",
+      "duracion": "5",
+      "tamaño": "mediana"
+    },
+    {
+      "codigo": 4,
+      "nombre": "Tocino",
+      "precio": "2700",
+      "duracion": "5",
+      "tamaño": "mediana"
+    }
+  ]
+}
+
+
+
+
